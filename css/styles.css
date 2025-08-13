@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .btn-personalizado {
+    background-color: #ff7f50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.sombra-card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+<button class="btn-personalizado hover:bg-orange-500">
+    Clique aqui
+</button>
+
+<div class="sombra-card p-4 bg-white rounded">
+    Conteúdo com sombra
+</div> */
